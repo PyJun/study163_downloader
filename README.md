@@ -6,7 +6,7 @@
 
 【网易云课堂上面上面购买过自研课，已经过期的课程也可以下！】
 
-工具获取地址：https://lanzouw.com/s/course-downloader
+工具获取地址：https://pyjun.lanzoup.com/s/course-downloader
 
 ## 安装教程
 从蓝奏云网盘下载最新版学无止下载器后，点击确认一路安装即可
